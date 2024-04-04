@@ -1,4 +1,4 @@
-# Correlation and regression for data analysis
+# Ex-3 Correlation and regression for data analysis
 ### Developed by : H. AARON
 ### Register number : 212223040001
 # Aim : 
